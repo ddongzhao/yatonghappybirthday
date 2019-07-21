@@ -1,7 +1,8 @@
 #outside {
   z-index: 1;
   position: absolute;
-  background-color: lightgreen;
+  background-image: url("fuji.jpg");
+  background-color: #cccccc;
   width: 100%;
   height: 100%;
   text-align: center;
